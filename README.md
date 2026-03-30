@@ -30,7 +30,7 @@ padel-ranking/
 ├── package.json
 ├── firestore.rules           ← Reglas de seguridad
 ├── firestore.indexes.json    ← Índices compuestos
-└── .env.example              ← Variables de entorno
+└── .env.example              ← Variables de entorno 
 ```
 
 ---
